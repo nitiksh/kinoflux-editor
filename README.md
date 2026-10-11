@@ -6,7 +6,7 @@
 
 ### Native, fully offline video, audio, image, PDF and document tools
 
-**53 tools in one small window.** No uploads, no account, no telemetry, no network code.<br/>
+**66 tools in one small window.** No uploads, no account, no telemetry, no network code.<br/>
 For Windows 10/11 and macOS (Apple Silicon).
 
 <br/>
@@ -15,14 +15,14 @@ For Windows 10/11 and macOS (Apple Silicon).
 [![Windows 10 and 11, 64-bit](https://img.shields.io/badge/Windows-10%20%7C%2011-0f1218?style=for-the-badge&logo=windows&logoColor=0ea5e9)](#download)
 [![macOS, Apple Silicon](https://img.shields.io/badge/macOS-Apple%20Silicon-0f1218?style=for-the-badge&logo=apple&logoColor=white)](#download)
 [![100% offline](https://img.shields.io/badge/100%25-offline-14b8a6?style=for-the-badge)](#privacy-and-offline-promise)
-[![53 tools](https://img.shields.io/badge/tools-53-6366f1?style=for-the-badge)](#the-53-tools)
+[![66 tools](https://img.shields.io/badge/tools-66-6366f1?style=for-the-badge)](#the-66-tools)
 [![License: proprietary](https://img.shields.io/badge/license-proprietary-b91c1c?style=for-the-badge)](#licence)
 
 <p>
   <a href="#download"><b>Download</b></a> &nbsp;|&nbsp;
   <a href="#why-kinoflux-editor"><b>Why</b></a> &nbsp;|&nbsp;
   <a href="#features"><b>Features</b></a> &nbsp;|&nbsp;
-  <a href="#the-53-tools"><b>Tools</b></a> &nbsp;|&nbsp;
+  <a href="#the-66-tools"><b>Tools</b></a> &nbsp;|&nbsp;
   <a href="#screenshots"><b>Screenshots</b></a> &nbsp;|&nbsp;
   <a href="#install"><b>Install</b></a> &nbsp;|&nbsp;
   <a href="#privacy-and-offline-promise"><b>Privacy</b></a> &nbsp;|&nbsp;
@@ -81,7 +81,7 @@ Everyday file jobs (shrink a video for email, cut a clip, merge two PDFs, turn W
 |:--------------|:---------------------|
 | Upload private files to a converter website | Files are converted **on your computer**. Nothing is uploaded, ever |
 | Create an account, accept cookies, watch a size limit | No account, no limits from a server, works with the network switched off |
-| A different site or app for video, audio, images, PDFs | **53 tools** for all five in one window |
+| A different site or app for video, audio, images, PDFs | **66 tools** for all five in one window |
 | Learn a timeline editor to make one simple cut | Plain-language options: pick the action, press the button |
 | Results that replace your original | New files next to the originals. Originals are never overwritten |
 
@@ -99,7 +99,7 @@ KinoFlux Editor is a **batch toolbox, not a multi-track timeline editor**: one a
 Drop files or folders in, the right panel shows one action (preselected from the file type) and only its options. Press <kbd>Ctrl</kbd>+<kbd>Enter</kbd>.
 
 **Command palette**<br/>
-<kbd>Ctrl</kbd>+<kbd>K</kbd> (<kbd>Cmd</kbd>+<kbd>K</kbd> on macOS) opens a type-to-filter list of all 53 tools.
+<kbd>Ctrl</kbd>+<kbd>K</kbd> (<kbd>Cmd</kbd>+<kbd>K</kbd> on macOS) opens a type-to-filter list of all 66 tools.
 
 **Batch by default**<br/>
 Multi-select, drag to reorder, progress per file and overall, cancel any time.
@@ -128,7 +128,7 @@ Programs are started with argument lists, never a shell string. Results are writ
 
 ---
 
-## The 53 tools
+## The 66 tools
 
 | Area | Tools | Powered by |
 |:-----|------:|:-----------|
@@ -587,13 +587,13 @@ Being straight about what 0.1.2 does not do:
 
 *Released 2026-10-03. The first release of the native (Rust + GPUI) KinoFlux Editor.*
 
-- **53 tools** in five areas: Video 15, Audio 6, Image 7, PDF 12, Documents 13, all offline.
+- **66 tools** in five areas: Video 15, Audio 6, Image 7, PDF 12, Documents 13, all offline.
 - **One window**: drag-and-drop file list, multi-select, reorder, command palette, presets per tool, results history, progress per file and overall, cancel.
 - **Trim preview** with a thumbnail strip and range slider.
 - **Light, dark or system theme**; remembers window size, panel width and last options. Draggable splitter, stacked layout in narrow windows.
 - **Plain-language error messages** and an **About window** (F1) with Help, Privacy, Terms, Licence, Third-party notices and Data handling.
 - **Windows installer**: per user or all users, Start menu entry, optional desktop icon and right-click entries, optional removal of your data on uninstall, silent install.
-- **macOS (Apple Silicon)**: menu bar, Cmd shortcuts, Finder / Dock / Open With file opening, Retina support, helper programs (LibreOffice included) bundled inside the app. All 53 tools passed 173 end-to-end cases on a Mac (macOS 26.6).
+- **macOS (Apple Silicon)**: menu bar, Cmd shortcuts, Finder / Dock / Open With file opening, Retina support, helper programs (LibreOffice included) bundled inside the app. all 66 tools passed 173 end-to-end cases on a Mac (macOS 26.6).
 - **Offline and private by design**: no network code, no telemetry, no account, no update check.
 - Bundled programs: FFmpeg 8.0 (GPL v3 build), ImageMagick 7.1.2-11, qpdf 12.2.0, Poppler 26.09.0, LibreOffice Portable 26.2.1.2 (Windows), LibreOffice 26.2.6 (macOS).
 
